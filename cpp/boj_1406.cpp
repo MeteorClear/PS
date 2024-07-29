@@ -1,3 +1,5 @@
+// https://www.acmicpc.net/problem/1406
+
 #include <iostream>
 #include <list>
 #include <cstdio>
