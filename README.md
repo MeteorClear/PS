@@ -1,2 +1,3 @@
-# boj
-백준 문제 정리
+# PS(Problem Solving)
+
+푼 PS 문제 모음입니다.
