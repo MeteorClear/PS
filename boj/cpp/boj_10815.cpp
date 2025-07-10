@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/10815
+// 10815번 숫자 카드
+// 이분 탐색 문제
+// 상근이가 가지고 있는 숫자 카드를 정렬한 후, 숫자가 주어질 때마다 이분 탐색하여 해결 가능
 
 #include <iostream>
 #include <vector>
