@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/1021
+// 1021번 회전하는 큐
+// 덱 문제
+// 현 위치에서 좌우 회전 중 가까운 방향으로 횟수를 누적시키면 해결 가능
 
 #include <iostream>
 #include <deque>
