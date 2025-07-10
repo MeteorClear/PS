@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/10816
+// 10816번 숫자 카드 2
+// 정렬, 범위 탐색 문제
+// 상근이는 숫자 카드를 정렬한 후 수가 들어올 때마다 탐색 후 숫자 범위 크기로 해결 가능
 
 #include <iostream>
 #include <vector>
