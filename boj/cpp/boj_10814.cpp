@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/10814
+// 10814번 나이순 정렬
+// 정렬 문제
+// 나이 순, 나이가 같으면 가입한 순(입력 순)으로 정렬하여 해결 가능
 
 #include <iostream>
 #include <vector>
