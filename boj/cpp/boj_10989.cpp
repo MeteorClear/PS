@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/10989
+// 10989번 수 정렬하기 3
+// 정렬 문제
+// 주어진 수를 오름차순으로 정렬하여 해결 가능
 
 #include <iostream>
 #include <vector>
