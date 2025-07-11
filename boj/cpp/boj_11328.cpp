@@ -1,4 +1,8 @@
 // https://www.acmicpc.net/problem/11328
+// 11328번 Strfry
+// 문자열 문제
+// 두 문자열을 비교하여 사용된 알파벳이 같은지 확인하여 해결 가능
+// 사용된 알파벳 종류와 수를 카운팅하여 비교 같은지 알 수 있다
 
 #include <iostream>
 
