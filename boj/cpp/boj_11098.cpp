@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/11098
+// 11098번 첼시를 도와줘!
+// 정렬, 구현 문제
+// 주어진 선수의 가격이 가장 큰 선수를 출력하면 된다
 
 #include <iostream>
 
