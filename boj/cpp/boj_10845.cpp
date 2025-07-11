@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/10845
+// 10845번 큐
+// 큐, 구현 문제
+// 제시하는 큐 명령 구조를 구현하여 해결 가능
 
 #include <iostream>
 #include <queue>
