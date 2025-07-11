@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/1138
+// 1138번 한 줄로 서기
+// 그리디 문제
+// 앞에서 빈 칸을 세어 해당 위치에 삽입하여 해결 가능
 
 #include <iostream>
 #include <vector>
