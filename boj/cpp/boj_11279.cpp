@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/11279
+// 11279번 최대 힙
+// 우선순위 큐 문제
+// 우선순위 큐를 이용해 최대 힙을 구현하여 해결 가능
 
 #include <iostream>
 #include <queue>
