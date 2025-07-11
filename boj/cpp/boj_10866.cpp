@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/10866
+// 10866번 덱
+// 덱, 구현 문제
+// 주어진 덱 명령을 구현하여 해결 가능
 
 #include <iostream>
 #include <deque>
