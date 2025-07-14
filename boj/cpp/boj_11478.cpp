@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/11478
+// 11478번 서로 다른 부분 문자열의 개수
+// 문자열, 집합 문제
+// 부분 문자열을 집합에 넣어 중복을 제거하여 세어 해결 가능
 
 #include <iostream>
 #include <unordered_set>
