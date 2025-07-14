@@ -1,4 +1,8 @@
 // https://www.acmicpc.net/problem/11404
+// 11404번 플로이드
+// 그래프, 플로이드-워셜 문제
+// 최단 경로의 모든 쌍을 구하는 문제로 플로이드-워셜을 구현하여 해결 가능
+// 점화식은 path[i][j] = min(path[i][j], path[i][k] + path[k][j])
 
 #include <iostream>
 #include <vector>
