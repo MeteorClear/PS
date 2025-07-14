@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/11779
+// 11779번 최소비용 구하기 2
+// 그래프, 다익스트라 문제
+// 다익스트라 알고리즘을 이용해 최소비용을 구하고 경로를 추적하여 해결 가능
 
 #include <iostream>
 #include <vector>
