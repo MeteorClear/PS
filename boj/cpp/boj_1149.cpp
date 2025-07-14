@@ -1,4 +1,12 @@
 // https://www.acmicpc.net/problem/1149
+// 1149번 RGB거리
+// 다이나믹 프로그래밍 문제
+// 다차원 dp 테이블을 만들어 해결 가능
+// dp[i][c] = i번째 집을 색상 c(0:빨강, 1:초록, 2:파랑)으로 칠할 때의 최소 비용
+// dp[i][0] = min(dp[i-1][1], dp[i-1][2]) + cost[i][0] (빨강)
+// dp[i][1] = min(dp[i-1][0], dp[i-1][2]) + cost[i][1] (초록)
+// dp[i][2] = min(dp[i-1][0], dp[i-1][1]) + cost[i][2] (파랑)
+// 최종 결과 min(dp[N-1][0], dp[N-1][1], dp[N-1][2])
 
 #include <iostream>
 #include <vector>
