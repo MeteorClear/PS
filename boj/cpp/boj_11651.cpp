@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/11651
+// 11651번 좌표 정렬하기 2
+// 정렬 문제
+// 좌표를 y좌표가 증가하는 순으로, y좌표가 같으면 x좌표가 증가하는 순서로 정렬하여 해결 가능
 
 #include <iostream>
 #include <vector>
