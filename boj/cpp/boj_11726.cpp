@@ -1,4 +1,10 @@
 // https://www.acmicpc.net/problem/11726
+// 11726번 2×n 타일링
+// 다이나믹 프로그래밍 문제
+// dp 테이블을 구하여 해결 가능
+// 마지막이 1×2 타일: 남은 부분은 2×(n-1)
+// 마지막이 2×1 타일 2개: 남은 부분은 2×(n-2)
+// 점화식 dp[n] = dp[n-1] + dp[n-2]
 
 #include <iostream>
 #include <vector>
