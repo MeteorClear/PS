@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/1158
+// 1158번 요세푸스 문제
+// 구현 문제
+// 큐 또는 리스트를 활용하여 주어진 요세푸스 문제를 구현하여 해결 가능
 
 #include <iostream>
 #include <list>
