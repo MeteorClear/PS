@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/11652
+// 11652번 카드
+// 맵 문제
+// 맵과 같은 키-값 쌍 구조를 이용해 빈도를 세어 해결 가능
 
 #include <iostream>
 #include <map>
