@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/11725
+// 11725번 트리의 부모 찾기
+// 그래프 문제
+// 주어진 트리에 대해 루트부터 그래프 탐색을 수행하면서 부모노드를 저장하여 해결 가능
 
 #include <iostream>
 #include <vector>
