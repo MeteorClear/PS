@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/11780
+// 11780번 플로이드 2
+// 그래프, 플로이드-워셜 문제
+// 플로이드-워셜 알고리즘을 이용해 최단비용을 구하고 각 경로를 복원하여 해결 가능
 
 #include <iostream>
 #include <vector>
