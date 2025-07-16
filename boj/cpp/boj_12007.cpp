@@ -1,4 +1,7 @@
-https://www.acmicpc.net/problem/12007
+// https://www.acmicpc.net/problem/12007
+// 12007번 Field Reduction (Bronze)
+// 수학, 브루트포스 문제
+// 주어진 좌표 중 가장 크거나 작은 좌표를 제거하고 나머지 좌표를 포함하는 가장 작은 사각형을 구하여 해결 가능
 
 #include <iostream>
 #include <vector>
