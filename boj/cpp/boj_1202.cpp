@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/1202
+// 1202번 보석 도둑
+// 그리디 문제
+// 보석을 가치기준 내림차순 정렬하고 집합에서 현재 보석을 넣을 수 있는 가장 작은 가방을 찾아 해결 가능
 
 #include <iostream>
 #include <algorithm>
