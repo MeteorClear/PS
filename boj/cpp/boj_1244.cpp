@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/1244
+// 1244번 스위치 켜고 끄기
+// 구현, 시뮬레이션 문제
+// 제시된 조작 방식을 구현하여 해결 가능
 
 #include <iostream>
 
