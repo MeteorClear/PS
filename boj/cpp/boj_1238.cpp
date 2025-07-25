@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/1238
+// 1238번 파티
+// 그래프, 최단 경로 문제
+// 정방향과 역방향 모두 데이크스트라 알고리즘을 적용하여 최단 경로를 구하여 해결 가능
 
 #include <iostream>
 #include <vector>
