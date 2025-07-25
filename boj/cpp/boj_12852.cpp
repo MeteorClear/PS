@@ -1,4 +1,8 @@
 // https://www.acmicpc.net/problem/12852
+// 12852번 1로 만들기 2
+// 다이나믹 프로그래밍 문제
+// 2와 3으로 나눠 떨어지는지 확인하여 dp 테이블을 구하면 해결 가능
+// dp[i] = min(dp[i-1] + 1, dp[i/2] + 1 (if i%2==0), dp[i/3] + 1 (if i%3==0))
 
 #include <iostream>
 #include <vector>
