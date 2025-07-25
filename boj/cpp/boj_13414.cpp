@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/13414
+// 13414번 수강신청
+// 구현, 해시, 맵 문제
+// 맵을 이용해 중복검사와 정렬을 수행하도록 구현하여 해결 가능
 
 #include <iostream>
 #include <map>
