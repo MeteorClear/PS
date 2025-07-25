@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/13549
+// 13549번 숨바꼭질 3
+// 그래프, 최단 경로, 너비 우선 탐색 문제
+// 수빈이의 이동조건을 기반으로 bfs를 적용해 해결 가능
 
 #include <iostream>
 #include <vector>
