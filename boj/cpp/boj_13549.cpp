@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/13549
+// 13549번 숨바꼭질 3
+// 그래프, 최단 경로, 데이크스트라 문제
+// 수빈이의 이동조건을 기반으로 데이크스트라 알고리즘을 적용해 해결 가능
 
 #include <iostream>
 #include <vector>
