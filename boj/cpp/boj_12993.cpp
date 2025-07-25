@@ -1,4 +1,7 @@
 // https://www.acmicpc.net/problem/12993
+// 12993번 이동3
+// 수학, 그래프 문제
+// bfs를 응용하여 증가폭이 k^3이 되도록 탐색하여 해결 가능
 
 #include <iostream>
 #include <queue>
